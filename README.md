@@ -1,1 +1,3 @@
-# Data & Codes: Eddy Tracking South Atlantic Bight. Proceedings of The Royal Society A 
+# Eddy Tracking South Atlantic Bight
+
+Data and Codes for the "Proceedings of The Royal Society A" manuscript
